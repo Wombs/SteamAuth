@@ -1,4 +1,4 @@
-![Logo](http://vignette1.wikia.nocookie.net/tf2freakshow/images/c/c7/Valve_logo.png/revision/latest?cb=20120404223132)
+![Logo](http://www.cfau-pd.net/images/steam-logo/steam-logo-2.jpg)
 
 # SteamAuth
 Here is a PHP example of the Steam API (you will need a Steam API key).
